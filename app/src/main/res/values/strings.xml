@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SDA_Assign_2_2018_Vincent_Hamilton.</string>
+    <string name="Open_Camera">Implicit Intent:Open Camera</string>
+    <string name="View_picture">Implicit Intent: View Picture</string>
+    <string name="Call_activity">Explicit Intent: Call an Activity</string>
+    <string name="Send_button">Send</string>
+    <string name="To_email">To</string>
+    <string name="Subject_email">Subject</string>
+    <string name="Compose_email">Compose</string>
+    <string name="Sebd_email_back" translatable="false">Send</string>
+</resources>
+
